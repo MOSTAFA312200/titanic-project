@@ -55,5 +55,10 @@ http://127.0.0.1:8000
 
 ---
 
+🚀 Live Demo  
+Try the model here:  
+
+👉 https://titanic-project-production.up.railway.app
+
 ## 👨‍💻 Author
 Mostafa
